@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\zhouf\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\zhouf\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_DeJeweled.203906780.00" t="ExcludeRecursive" />
+    <e p="C:\Users\zhouf\Desktop\Intro to Game Dev\Home\SwapMatch Clone\DeJeweled\DeJeweled" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Controller" t="Include">
+            <e p="ScanForInput.cs" t="Include" />
+          </e>
+          <e p="Legacy" t="Include">
+            <e p="AdjustBackgroundSize.cs" t="Include" />
+            <e p="GenerateBackgroundOnStart.cs" t="Include" />
+            <e p="GenerateDestroyGridOnEntry.cs" t="Include" />
+            <e p="GenerateDestroySlotsOnEntry.cs" t="Include" />
+            <e p="GenerateGemGridOnEntry.cs" t="Include" />
+            <e p="GenerateGemGridOnStart.cs" t="Include" />
+            <e p="GenerateGemOnEmpty.cs" t="Include" />
+            <e p="GenerateGemOnStart.cs" t="Include" />
+            <e p="GenerateGemSlotsOnEntry.cs" t="Include" />
+            <e p="GenerateSpawnGridOnEntry.cs" t="Include" />
+            <e p="GenerateSpawnGridOnStart.cs" t="Include" />
+            <e p="GenerateSpawnSlotsOnEntry.cs" t="Include" />
+            <e p="MoveOnFunctionCall.cs" t="Include" />
+            <e p="MoveOnKeyDown.cs" t="Include" />
+            <e p="RandomColorPicker.cs" t="Include" />
+            <e p="Refresh.cs" t="Include" />
+            <e p="SetCalledFalseOnEnter.cs" t="Include" />
+            <e p="SetCompleteFalseOnEnter.cs" t="Include" />
+            <e p="SetCompleteTrueAfterAnimation.cs" t="Include" />
+            <e p="SetPositionOnEntry.cs" t="Include" />
+          </e>
+          <e p="Model" t="Include">
+            <e p="ControllerObjsTracker.cs" t="Include" />
+            <e p="KeyVarsTracker.cs" t="Include" />
+            <e p="ModelAnimationStateBehaviors" t="Include">
+              <e p="FallOnEntry.cs" t="Include" />
+              <e p="GenerateOnEntry.cs" t="Include" />
+              <e p="Loaders" t="Include">
+                <e p="LoadBackgroundOnEntry.cs" t="Include" />
+                <e p="LoadGridOnEntry.cs" t="Include" />
+                <e p="LoadSlotsOnEntry.cs" t="Include" />
+                <e p="ResizeBackgroundOnEntry.cs" t="Include" />
+              </e>
+              <e p="MatchOnEntry.cs" t="Include" />
+              <e p="ReplaceCenterGemWithPlayerOnEntry.cs" t="Include" />
+              <e p="ScanForEmptyOnEntry.cs" t="Include" />
+              <e p="ScanForMatchOnEntry.cs" t="Include" />
+              <e p="Setters" t="Include">
+                <e p="SetBoolOnEntry.cs" t="Include" />
+                <e p="SetControllerActiveDuringState.cs" t="Include" />
+                <e p="SetIntOnEntry.cs" t="Include" />
+              </e>
+            </e>
+            <e p="PlayerGemTracker.cs" t="Include" />
+            <e p="PrefabsTracker.cs" t="Include" />
+            <e p="ViewObjsTracker.cs" t="Include" />
+          </e>
+          <e p="View" t="Include">
+            <e p="DropShadow.cs" t="Include" />
+            <e p="ModelObjsTracker.cs" t="Include" />
+            <e p="ViewAnimationStateBehaviors" t="Include">
+              <e p="AnimateMove.cs" t="Include" />
+              <e p="DestroyOnClipFinish.cs" t="Include" />
+              <e p="Setters" t="Include">
+                <e p="SetBoolOnClipFinish.cs" t="Include" />
+                <e p="SetModelAnimatorBoolOnClipFinish.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ViewVarsTracker.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="DeJeweled.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
